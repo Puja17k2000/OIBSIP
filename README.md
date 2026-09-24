@@ -1,13 +1,13 @@
-# OIBSIP — Oasis Infobyte Data Analytics Internship
+# OIBSIP — Data Analytics Skill-Building Projects
 
-This repository contains all 9 completed tasks for the Oasis Infobyte Data Analytics Summer Internship Program (SIP), covering both Level 1 and Level 2 of the track.
+This repository contains 9 self-directed data analytics projects covering EDA, clustering, data cleaning, classification, regression, and NLP — built using publicly available datasets and industry-standard techniques.
 
-## 👤 Intern
+## 👤 Author
 **Puja Kumari**
 
 ## 📁 Projects
 
-### Level 1
+### Foundational Tasks
 
 | # | Task | Skills | Link |
 |---|------|--------|------|
@@ -16,7 +16,7 @@ This repository contains all 9 completed tasks for the Oasis Infobyte Data Analy
 | 3 | Cleaning Data | Data quality assessment, systematic cleaning | [Puja_Kumari_L1Task3](Puja_Kumari_L1Task3) |
 | 4 | Sentiment Analysis | NLP, TF-IDF, Naive Bayes, Logistic Regression | [Puja_Kumari_L1Task4](Puja_Kumari_L1Task4) |
 
-### Level 2
+### Advanced Tasks
 
 | # | Task | Skills | Link |
 |---|------|--------|------|
@@ -35,5 +35,5 @@ Python · pandas · NumPy · scikit-learn · NLTK · TextBlob · matplotlib · s
 - Consistent focus on **honest evaluation**: every project documents model limitations and error analysis, not just successes
 - Every task includes a dedicated README with methodology, key findings, and business-oriented conclusions
 
-## 📄 About the Internship
-Completed as part of the Oasis Infobyte Data Analytics track (Sept-Oct 2026), covering both Level 1 and Level 2 tasks in full.
+## 📄 About This Repository
+A structured set of 9 practice projects covering the core skills of a data analytics workflow — from exploratory analysis and data cleaning to predictive modeling and NLP.
